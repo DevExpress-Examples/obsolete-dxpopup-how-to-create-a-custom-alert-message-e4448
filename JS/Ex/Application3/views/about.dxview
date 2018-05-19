@@ -1,0 +1,5 @@
+﻿<div data-options="dxView : { name: 'About', title: 'About' } " >
+    <div  data-options="dxContent : { targetPlaceholder: 'content' } " >
+        <div data-bind="dxButton: {text: 'Show popup', clickAction: onClick}"></div>
+    </div>
+</div>
