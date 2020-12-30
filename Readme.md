@@ -1,8 +1,12 @@
 # (Obsolete) dxPopup - How to create a custom alert message
 
-<p><strong>Starting with 14.1 follow the recommendations from the <a href="https://www.devexpress.com/Support/Center/p/Q557034">How to use the same dxPopup or another widget on different views</a> article or use <a href="http://js.devexpress.com/Documentation/ApiReference/Utils/ui/dialog/Methods/?version=14_1#customoptions">DevExpress.ui.dialog.custom</a>.</strong><br /><br />This task can be implemented using the <strong>dxPopup</strong> control.</p>
+<p><strong>Starting with 14.1 follow the recommendations from the <a href="https://www.devexpress.com/Support/Center/p/Q557034">How to use the same dxPopup or another widget on different views</a> article or use <a href="http://js.devexpress.com/Documentation/ApiReference/Utils/ui/dialog/Methods/?version=14_1#customoptions">DevExpress.ui.dialog.custom</a>.</strong></p>
+  
+ <p><strong>For version 13.2 and older</strong></p> 
+ 
+<p>This task can be accomplished using the <strong>dxPopup</strong> control.</p>
 <br />
-<p><strong>For version 13.2 and older</strong></p>
+
 <p>If you need to show a message, perform the following steps:</p>
 <p>1. Create a new DIV and add it to the <strong>viewPort</strong> DIV;</p>
 <p>2. Create the <strong>dxPopup</strong> widget in the created container and specify settings for this widget;</p>
